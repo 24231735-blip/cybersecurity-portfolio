@@ -1,0 +1,11 @@
+.env
+.env.*
+*.pem
+*.key
+*.ova
+*.vdi
+*.pcap
+*.pcapng
+_site/
+.jekyll-cache/
+.DS_Store
