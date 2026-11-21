@@ -1,0 +1,13 @@
+:root { color-scheme: light; font: 17px/1.65 system-ui, sans-serif; color: #17283a; background: #f5f8fa; }
+body { margin: 0; }
+header { background: #10283b; padding: 1rem max(1.25rem, calc((100% - 48rem) / 2)); }
+header a { color: #fff; font-weight: 700; }
+main { max-width: 48rem; margin: auto; padding: 2rem 1.25rem 4rem; overflow-wrap: anywhere; }
+h1, h2, h3 { line-height: 1.2; }
+h1 { font-size: clamp(2rem, 6vw, 3.5rem); letter-spacing: -.035em; }
+h2 { margin-top: 2.5rem; border-top: 1px solid #ccd9df; padding-top: 1.2rem; }
+a { color: #00615a; text-underline-offset: .2em; }
+a:focus-visible { outline: 3px solid #bd5900; outline-offset: 3px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { text-align: left; padding: .6rem; vertical-align: top; border-bottom: 1px solid #ccd9df; }
+img { max-width: 100%; height: auto; }
