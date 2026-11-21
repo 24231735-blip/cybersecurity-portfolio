@@ -57,3 +57,5 @@ My next steps are to build a small log-monitoring lab, practise investigating te
 ## Contact information
 
 [GitHub](https://github.com/24231735-blip)
+
+[LinkedIn](https://www.linkedin.com/in/fatimah-abubakar-alfa-140a06207)
